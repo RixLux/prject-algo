@@ -77,7 +77,7 @@ int main() {
         std::cout << "4. Menandai pesanan sebagai selesai\n";
         std::cout << "5. Menampilkan riwayat pesanan yang sudah selesai\n";
         std::cout << "6. Keluar\n";
-        std::cout << "Pilih opsi (1-7): ";
+        std::cout << "Pilih opsi (1-6): ";
         std::cin >> option;
 
         switch (option) {
